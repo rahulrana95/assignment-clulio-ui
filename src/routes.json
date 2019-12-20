@@ -1,0 +1,6 @@
+{
+    "popular": "/popular",
+    "trending": "/categories",
+    "newest": "/newest",
+    "topRated": "/top-rated"
+}

@@ -1,0 +1,16 @@
+.mainHeader {
+    display: flex;
+    margin: 10px;
+    ul {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+
+        li {
+            margin-left: 10px;
+            list-style: none;
+            text-decoration: none;
+            
+        }
+    }
+}

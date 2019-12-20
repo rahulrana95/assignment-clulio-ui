@@ -1,0 +1,26 @@
+.home {
+    margin: 10px;
+    display: flex;
+    border: 1px solid red;
+    height: 100%;
+
+    ul,li,h6,h5,h4,h3,h2,h1,p {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .leftArea {
+        width: 80%;
+        border: 1px solid green;
+
+        .content {
+            margin: 2px;
+            border: 1px solid grey;
+            min-height: 300px;
+        }
+    }
+
+    .sidebar {
+        border: 1px solid blue;
+    }
+}

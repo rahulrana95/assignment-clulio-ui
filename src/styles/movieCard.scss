@@ -1,0 +1,22 @@
+.movieCard {
+    border: 1px solid red;
+    width: 230px;
+    img {
+        width: 230px;
+        height: 200px;
+    }
+
+    &__footer {
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__title {
+        overflow: hidden;
+        height: 20px;
+        text-align: center;
+    }
+}

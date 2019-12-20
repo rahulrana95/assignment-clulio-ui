@@ -1,0 +1,4 @@
+{
+    "REACT_APP_MOVIES_URL": "https://api.themoviedb.org",
+    "REACT_APP_MOVIES_DB_IMG_URL": "https://image.tmdb.org/t/p/w500/"
+}
